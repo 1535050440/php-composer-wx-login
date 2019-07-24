@@ -1,0 +1,22 @@
+{
+  "name": "deng-tp5/we-login",
+  "description": "wechat:login",
+  "keywords": ["deng", "wechat", "login", "php"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "deng",
+      "email": "1415551519@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DengTp5\\": "src"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+  }
+
+}

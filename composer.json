@@ -1,5 +1,5 @@
 {
-  "name": "deng-tp5/we-login",
+  "name": "deng-tp5/wx-login",
   "description": "wechat:login",
   "keywords": ["deng", "wechat", "login", "php"],
   "type": "library",
